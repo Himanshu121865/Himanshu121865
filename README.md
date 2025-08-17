@@ -14,7 +14,6 @@
 - 🧠 Diving into **Competitive Programming** and starting my journey in **Data Science**.  
 - 💻 Proficient in **Python**, **C++**, **C**, **HTML**, **CSS**, **Git/GitHub**, **Arch Linux**, and **Bash**.  
 - 🎮 Hardcore gamer with **1200+ hours** on Valorant and **250+ hours** on Aimlab.  
-- 📚 Anime and manga nerd: **500+ mangas**, **1000+ hentai**, and **300+ anime** watched!  
 - 🐧 Proudly running **Arch Linux** (I use Arch, btw!).  
 
 ---
@@ -55,7 +54,7 @@
 
 ## 🎯 Current Goals
 
-- 🏆 Master **Competitive Programming** by solving advanced LeetCode problems.  
+- 🏆 Master **Competative Programming** by solving advanced LeetCode problems.  
 - 📊 Kickstart my **Data Science** journey with Python and ML frameworks.  
 - 🌐 Build cool web projects using **HTML**, **CSS**, and potentially JavaScript.  
 - 🛠️ Contribute to open-source projects on GitHub.  
@@ -65,16 +64,9 @@
 
 ## 🏆 Fun Facts
 
-- 🐧 I’m an **Arch Linux** enthusiast—customizing my setup is my therapy!  
-- 📚 I’ve read over **500 mangas**, **1000+ hentai**, and watched **300+ anime** series.  
+- 🐧 I’m an **Arch Linux** enthusiast—customizing my setup is my therapy!   
 - 🎮 My Valorant hours (1200+) and Aimlab practice (250+) are my badges of honor.  
 - 💾 Always experimenting with new tools and workflows to level up my coding game.  
 
 ---
 
-## 🌐 Connect with Me
-
-- 📂 [GitHub](https://github.com/Himanshu121865) – Check out my projects!  
-- 🧩 [LeetCode](https://leetcode.com/u/himanshujha1218/) – See my coding progress.  
-
-Thanks for stopping by! Let’s code, game, or geek out over anime and manga together! 🚀
