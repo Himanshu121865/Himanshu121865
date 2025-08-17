@@ -1,17 +1,17 @@
 # 👋 Hey there, I'm Himanshu!  
 
-<h3 align="center">🎓 B.Tech Student | 💻 Competative Programmer | 🌱 Aspiring Data Scientist</h3>
+<h3 align="center">🎓 B.Tech Student | 💻 Competitive Programmer | 🌱 Aspiring Data Scientist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Python+%7C+C%2B%2B+%7C+Web+Dev;Arch+Linux+User+%F0%9F%90%A7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Competitive+Programming+Enthusiast+%F0%9F%8E%AF;Python+%7C+C%2B%2B+%7C+Web+Dev;Arch+Linux+User+%F0%9F%90%A7" alt="Typing SVG" />
 </p>
 
----
+
 
 ## 🔥 About Me
 
 - 🎓 **B.Tech Student** passionate about coding and problem-solving.  
-- 🧠 Diving into **Competative Programming** and starting my journey in **Data Science**.  
+- 🧠 Diving into **Competitive Programming** and starting my journey in **Data Science**.  
 - 💻 Proficient in **Python**, **C++**, **C**, **HTML**, **CSS**, **Git/GitHub**, **Arch Linux**, and **Bash**.  
 - 🎮 Hardcore gamer with **1200+ hours** on Valorant and **250+ hours** on Aimlab.  
 - 🐧 Proudly running **Arch Linux** (I use Arch, btw!).  
@@ -54,7 +54,7 @@
 
 ## 🎯 Current Goals
 
-- 🏆 Master **Competative Programming** by solving advanced LeetCode problems.  
+- 🏆 Master **Competitive Programming** by solving advanced LeetCode problems.  
 - 📊 Kickstart my **Data Science** journey with Python and ML frameworks.  
 - 🌐 Build cool web projects using **HTML**, **CSS**, and potentially JavaScript.  
 - 🛠️ Contribute to open-source projects on GitHub.  
