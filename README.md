@@ -60,11 +60,4 @@
 
 ---
 
-## 🏆 Fun Facts
-
-- 🐧 I’m an **Arch Linux** enthusiast—customizing my setup is my therapy!   
-- 🎮 My Valorant hours (1200+) and Aimlab practice (250+) are my badges of honor.  
-- 💾 Always experimenting with new tools and workflows to level up my coding game.  
-
----
 
