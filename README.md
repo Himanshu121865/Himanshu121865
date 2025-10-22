@@ -3,7 +3,7 @@
 <h3 align="center">🎓 B.Tech Student | 💻 Competitive Programmer | 🌱 Aspiring Data Scientist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Competitive+Programming+%F0%9F%8E%AF;Python+%7C+C%2B%2B+%7C+Web+Dev;Arch+Linux+User+%F0%9F%90%A7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Competitive+Programming+%F0%9F%8E%AF;Arch+Linux+User+%F0%9F%90%A7" alt="Typing SVG" />
 </p>
 
 
