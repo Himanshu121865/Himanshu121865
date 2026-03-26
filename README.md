@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <img src="./denji.gif" alt="Literally Me" width="200px">
 </p>
 
