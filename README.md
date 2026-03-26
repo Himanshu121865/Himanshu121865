@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="./denji.gif" alt="Pixel Art Header" width="100%">
+<p align="left">
+  <img src="./denji.gif" alt="Pixel Art Header" width="200px">
 </p>
 
 <p align="center">
