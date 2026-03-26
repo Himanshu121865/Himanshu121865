@@ -1,10 +1,10 @@
 <p align="left">
-  <img src="./denji.gif" alt="Pixel Art Header" width="200px">
+  <img src="./denji.gif" alt="Literally Me" width="200px">
 </p>
 
 <p align="center">
   <img align="left" src="https://komarev.com/ghpvc/?username=omnimistic&label=Profile%20views&color=DC143C&style=flat-square&abbreviated=true)">
-  Hobbyist Game Developer from India | Focused on Game Design, ML, and Creative Coding ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+  Focused on Fullstack Devlopment | Profound in Backend(Self Proclaimed) ‎| Hobbyist LLVM simp from India   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 </p>
 
 ---
