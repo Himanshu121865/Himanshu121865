@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-  <img align="left" src="https://komarev.com/ghpvc/?username=omnimistic&label=Profile%20views&color=DC143C&style=flat-square&abbreviated=true)">
   Focused on Fullstack Devlopment | Profound in Backend(Self Proclaimed) ‎| Hobbyist LLVM simp from India   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 </p>
 
