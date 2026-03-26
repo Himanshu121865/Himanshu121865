@@ -1,10 +1,11 @@
 <p align="left">
   <img src="./denji.gif" alt="Literally Me" width="200px">
-</p>
-
-<p align="center">
+  <p align="center">
   Focused on Fullstack Devlopment | Profound in Backend(Self Proclaimed) ‎| Hobbyist LLVM simp from India   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 </p>
+
+</p>
+
 
 ---
 
