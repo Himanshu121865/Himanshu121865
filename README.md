@@ -1,5 +1,5 @@
-<p align="left">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3EzN2thZHB1YWNnaGNwc2h0MTd6NGRwMzVvaGc0MzVjaTBxNmpkcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kQKOG7ZORzHulCUBvj/giphy.gif" alt="Literally Me" width="200px">
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3EzN2thZHB1YWNnaGNwc2h0MTd6NGRwMzVvaGc0MzVjaTBxNmpkcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kQKOG7ZORzHulCUBvj/giphy.gif" alt="Literally Me" width="100%">
 </p>
  <p align="center">
   Focused on Fullstack Devlopment | Profound in Backend(Self Proclaimed) ‎| Hobbyist LLVM simp from India   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
