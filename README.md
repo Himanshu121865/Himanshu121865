@@ -1,10 +1,9 @@
 <p align="left">
   <img src="./denji.gif" alt="Literally Me" width="200px">
-  <p align="center">
+</p>
+ <p align="center">
   Focused on Fullstack Devlopment | Profound in Backend(Self Proclaimed) ‎| Hobbyist LLVM simp from India   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 </p>
-</p>
-
 
 ---
 
@@ -29,6 +28,10 @@ Beyond Web Dev, I explore **Compilers, devlopment tools, LLVM.**
 ### Connect
 * **GitHub:** [he mansu](https://github.com/Himanshu121865)
 * **Email:** himanshujha1218@gmail.com
+
+<p align="left">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenFocm5nM2Q3bXNnNXdkeW9yN2JiaG5vY2tkb3J5cHhsd3MwaHgybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5vchGoUtDqIPdRKPw9/giphy.gif" alt="she can fix me" width="200px">
+</p>
 
 ---
 
