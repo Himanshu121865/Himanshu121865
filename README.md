@@ -29,10 +29,7 @@ Beyond Web Dev, I explore **Compilers, devlopment tools, LLVM.**
 * **GitHub:** [he mansu](https://github.com/Himanshu121865)
 * **Email:** himanshujha1218@gmail.com
 
-<p align="left">
-  <img src="https://tenor.com/bVpB0.gif" alt="she can fix me" width="100%">
-</p>
-
+<div class="tenor-gif-embed" data-postid="26037138" data-share-method="host" data-aspect-ratio="1.79775" data-width="100%"><a href="https://tenor.com/view/beautiful-gif-26037138">Beautiful GIF</a>from <a href="https://tenor.com/search/beautiful-gifs">Beautiful GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 ---
 
 > "I just code and make things because it's fun lol"
