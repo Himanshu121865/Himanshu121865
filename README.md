@@ -30,7 +30,7 @@ Beyond Web Dev, I explore **Compilers, devlopment tools, LLVM.**
 * **Email:** himanshujha1218@gmail.com
 
 <p align="left">
-  <img src="https://tenor.com/view/asuko-gif-4122413393321803847" alt="Literally Me" width="200px">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnp1bnJ3NWd1cWR2bGlibWZ0czdsajF6cnlvaG16djFha3V2dzdxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DIYVI7Iz4dmnu/giphy.gif" alt="Literally Me" width="200px">
 </p>
 ---
 
