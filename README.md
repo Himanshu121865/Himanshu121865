@@ -30,7 +30,7 @@ Beyond Web Dev, I explore **Compilers, devlopment tools, LLVM.**
 * **Email:** himanshujha1218@gmail.com
 
 <p align="left">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnA3amw5ejAwOGh0dW1vY2ZseTRjZnJtZ3g1bHRyc2VndWo3b2E3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J8cxRyGzh5uD0azovQ/giphy.gif" alt="Literally Me" width="100%">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnA3amw5ejAwOGh0dW1vY2ZseTRjZnJtZ3g1bHRyc2VndWo3b2E3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J8cxRyGzh5uD0azovQ/giphy.gif" alt="Literally Me" width="100%" height="60%">
 </p>
 
 ---
