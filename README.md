@@ -16,7 +16,7 @@ Beyond Web Dev, I explore **Compilers, devlopment tools, LLVM.**
 
 | Category | Tools & Languages |
 | :--- | :--- |
-| **Languages** | C++, Lua, JavaScript, typescript |
+| **Languages** | rust, Lua, JavaScript, typescript |
 | **Frameworks** | Nextjs, express |
 | **Development** | Neovim, Git |
 
